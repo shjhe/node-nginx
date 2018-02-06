@@ -1,5 +1,5 @@
 # node-nginx
-> This is the branch for `@node-nginx` 1.1.1
+> This is the branch for `@node-nginx` 1.0.1
 ## 安装
 ``` sh
 npm install -g @node-nginx
