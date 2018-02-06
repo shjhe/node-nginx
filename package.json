@@ -1,0 +1,30 @@
+{
+  "name": "nginx-for-windows",
+  "version": "1.1.0",
+  "description": "使用Node快速启动、关闭、重启（更新配置文件）",
+  "bin": {
+    "node-nginx": "bin/nginx.js"
+  },
+  "main": "nginx",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "shelljs": "^0.8.1",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shjhe/Nginx-For-Windows.git"
+  },
+  "author": "shjhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shjhe/Nginx-For-Windows/issues"
+  },
+  "homepage": "https://github.com/shjhe/Nginx-For-Windows#readme"
+}
