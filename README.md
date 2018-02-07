@@ -1,5 +1,5 @@
 # node-nginx
-> This is the branch for `@nginx-in-node` 1.0.2
+
 ## 安装
 ``` sh
 npm install -g @nginx-in-node
