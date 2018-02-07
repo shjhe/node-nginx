@@ -1,10 +1,10 @@
 # node-nginx
-> This is the branch for `@node-nginx` 1.0.1
+> This is the branch for `@nginx-in-node` 1.0.2
 ## 安装
 ``` sh
-npm install -g @node-nginx
+npm install -g @nginx-in-node
 # or
-yarn global add @node-nginx
+yarn global add @nginx-in-node
 ```
 
 ## 使用
