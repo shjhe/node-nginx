@@ -1,5 +1,5 @@
 # node-nginx 
-
+ 
 ## 安装
 ``` sh
 npm install -g @nginx-in-node
