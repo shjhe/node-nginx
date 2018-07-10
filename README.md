@@ -2,9 +2,9 @@
     
 ## 安装
 ``` sh
-npm install -g @nginx-in-node
+npm install -g nginx-in-node
 # or
-yarn global add @nginx-in-node
+yarn global add nginx-in-node
 ```
 
 ## 使用
@@ -36,6 +36,6 @@ node-nginx -s stop [-f configPath]
 
 ### 其他配置
 1. 下载windows版nginx [http://nginx.org/en/download.html](http://nginx.org/en/download.html)
-2. 配置nginx环境变量，目录级别到nginx.exe即可
+2. 配置nginx环境变量，目录级别到nginx.exe即可（重要）
 ## License
 MIT
