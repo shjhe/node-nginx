@@ -7,6 +7,7 @@
   },
   "main": "nginx",
   "dependencies": {
+    "iconv-lite": "^0.4.24",
     "shelljs": "^0.8.1",
     "yargs": "^11.0.0"
   },
